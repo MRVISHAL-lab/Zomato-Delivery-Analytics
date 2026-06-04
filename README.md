@@ -1,5 +1,5 @@
 # Zomato Delivery Analytics
-![Zomato Dashboard](Images/Interface.png)
+![Zomato Dashboard](Images/Interface.jpg)
 
 ## Project Overview
 This project analyzes Zomato delivery operations using Python and Power BI.
