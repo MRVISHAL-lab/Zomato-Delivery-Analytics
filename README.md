@@ -1,4 +1,5 @@
 # Zomato Delivery Analytics
+![Zomato Dashboard][C:\Users\visha\OneDrive\Pictures\Zomato Dashboard.png]
 
 ## Project Overview
 This project analyzes Zomato delivery operations using Python and Power BI.
